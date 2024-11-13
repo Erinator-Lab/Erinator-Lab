@@ -6,7 +6,7 @@
 
 ## Где я есть ещё
 
-![Alt text](logoo.svg)Elemsocial
+![Elem](Elem.svg) Elemsocial
 
 
 
