@@ -18,12 +18,12 @@
 
 ---
 ## Донат
-🪙BTC: ```bc1ql604augvfnauvzsl36uwyrswm6ejxlflugxv7a```
+![Bit](icons/Bit.svg) BTC: ```bc1ql604augvfnauvzsl36uwyrswm6ejxlflugxv7a```
 
-💎TON: ```UQDPKuEnsENUi5yQMvxuqxjANpPtcizk4DZJgh-cBTs5uUjP```
+![Ton](icons/Ton.svg) TON: ```UQDPKuEnsENUi5yQMvxuqxjANpPtcizk4DZJgh-cBTs5uUjP```
 
-💲USDT: ```TBeRvALo4NR4SYoJBA6vMeKJhsdKvpmFca```
+![Usdt](icons/Usdt.svg) USDT: ```TBeRvALo4NR4SYoJBA6vMeKJhsdKvpmFca```
 
-🟠MONERO(XMR): ```46TutupUfxA4NSPiWunCBm1yaQEXrAYVNS65wJdXeUTngRtGZKp33DQXjVDqoKVoWK7zsgJeY7Jb539eDMUs1oK48eTxgkP```
+![Mon](icons/Mon.svg) MONERO(XMR): ```46TutupUfxA4NSPiWunCBm1yaQEXrAYVNS65wJdXeUTngRtGZKp33DQXjVDqoKVoWK7zsgJeY7Jb539eDMUs1oK48eTxgkP```
 
 🧡Boosty: [https://boosty.to/erinator](https://boosty.to/erinator)
