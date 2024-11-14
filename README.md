@@ -26,4 +26,4 @@
 
 ![Mon](icons/Mon.svg) MONERO(XMR): ```46TutupUfxA4NSPiWunCBm1yaQEXrAYVNS65wJdXeUTngRtGZKp33DQXjVDqoKVoWK7zsgJeY7Jb539eDMUs1oK48eTxgkP```
 
-🧡Boosty: [https://boosty.to/erinator](https://boosty.to/erinator)
+![Boo](icons/Boo.svg) Boosty: [https://boosty.to/erinator](https://boosty.to/erinator)
