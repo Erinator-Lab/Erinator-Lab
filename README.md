@@ -4,6 +4,8 @@
 
 На данный момент разрабатываю модификацию сайта elemsocial.com, но думаю дальше больше!
 
+![Nya](icons/FoxBread.png)
+
 ## Где я есть ещё
 
 ![Elem](icons/Elem.svg) Elemsocial: [https://elemsocial.com/e/erinXterin](https://elemsocial.com/e/erinXterin)
