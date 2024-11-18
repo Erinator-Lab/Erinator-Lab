@@ -1,12 +1,16 @@
-# 👋Привет! Я Эрин!
+# 👋Привет! Я Эрин!/Hi! I'm Erin!
 
 Немножко недопрограммист и занимаюсь всякой фигней.
 
 На данный момент разрабатываю модификацию сайта elemsocial.com, но думаю дальше больше!
+---
+I'm a bit of a non-programmer and I do all sorts of stuff.
+
+At the moment I am developing a modification of the site elemsocial.com , but I think further more!
 
 ![Nya](icons/FoxBread.png)
 
-## Где я есть ещё
+## Где я есть ещё/My social networks
 
 ![Elem](icons/Elem.svg) Elemsocial: [https://elemsocial.com/e/erinXterin](https://elemsocial.com/e/erinXterin)
 
@@ -17,7 +21,7 @@
 ![Git](icons/Git.svg) Github: [https://github.com/Erinator-Lab](https://github.com/Erinator-Lab)
 
 ---
-## Донат
+## Донат/Donate
 ![Bit](icons/Bit.svg) BTC: ```bc1ql604augvfnauvzsl36uwyrswm6ejxlflugxv7a```
 
 ![Ton](icons/Ton.svg) TON: ```UQDPKuEnsENUi5yQMvxuqxjANpPtcizk4DZJgh-cBTs5uUjP```
