@@ -2,6 +2,7 @@
 
 Немножко недопрограммист и занимаюсь всякой фигней.
 
+
 На данный момент разрабатываю модификацию сайта elemsocial.com, но думаю дальше больше!
 ---
 I'm a bit of a non-programmer and I do all sorts of stuff.
