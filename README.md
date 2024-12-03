@@ -22,6 +22,8 @@ At the moment I am developing a modification of the site elemsocial.com , but I 
 
 ![Git](icons/Git.svg) Github: [https://github.com/Erinator-Lab](https://github.com/Erinator-Lab)
 
+🔑PGP: [https://raw.githubusercontent.com/Erinator-Lab/Erinator-Lab/refs/heads/main/pgp.txt](https://raw.githubusercontent.com/Erinator-Lab/Erinator-Lab/refs/heads/main/pgp.txt)
+
 ---
 ## Донат/Donate
 ![Bit](icons/Bit.svg) BTC: ```bc1ql604augvfnauvzsl36uwyrswm6ejxlflugxv7a```
