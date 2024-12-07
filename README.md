@@ -26,11 +26,11 @@ At the moment I am developing a modification of the site elemsocial.com , but I 
 
 ---
 ## Донат/Donate
-![Bit](icons/Bit.svg) BTC: ```bc1ql604augvfnauvzsl36uwyrswm6ejxlflugxv7a```
+![Bit](icons/Bit.svg) BTC: ```1A3a7DbM2XeUJB4bE8yDVt4oHJynHeGtAG```
 
-![Ton](icons/Ton.svg) TON: ```UQDPKuEnsENUi5yQMvxuqxjANpPtcizk4DZJgh-cBTs5uUjP```
+![Ton](icons/Ton.svg) TON: ```UQCUzVno7IyGOdGfdgGh2tjrwbBFhC1V3ft_-WeQhhS_ORU3```
 
-![Usdt](icons/Usdt.svg) USDT: ```TBeRvALo4NR4SYoJBA6vMeKJhsdKvpmFca```
+![Usdt](icons/Usdt.svg) USDT: ```TLYoVeSCem2UH89pD8ZNuHLwThF4dx8Tmx```
 
 ![Mon](icons/Mon.svg) MONERO(XMR): ```46TutupUfxA4NSPiWunCBm1yaQEXrAYVNS65wJdXeUTngRtGZKp33DQXjVDqoKVoWK7zsgJeY7Jb539eDMUs1oK48eTxgkP```
 
